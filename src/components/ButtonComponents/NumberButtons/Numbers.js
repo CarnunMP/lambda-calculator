@@ -1,4 +1,5 @@
 import React from "react";
+import numbers from "../../../data.js";
 
 //import any components needed
 
